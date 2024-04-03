@@ -164,7 +164,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Alt text](<Screenshot (277).png>)
+![image](https://github.com/Lingasri/slot/assets/143391929/a1e1703b-eff1-49b1-8151-6a9a067d3997)
+
 
 
 ## RESULT
